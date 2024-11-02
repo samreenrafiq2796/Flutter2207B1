@@ -173,6 +173,16 @@ void db_delete(String i)
               String u_id = fetchdata[index].id;
               var person_data = fetchdata[index].data() as Map<String, dynamic>;
               return Card(
+               
+               title: Container( 
+              decoration: BoxDecoration( 
+              // Create a gradient background 
+              gradient: LinearGradient( 
+                begin: Alignment.topLeft, 
+                end: Alignment.bottomRight, 
+                colors: [Colors.orange, Colors.white, Colors.green], 
+              ), 
+            ), 
                 child: ListTile(
                   leading: Icon(Icons.recommend_rounded),
                   title: Text(person_data["Name"]?? "Not Found"),
@@ -204,7 +214,7 @@ void db_delete(String i)
 
                     ],
                   ),
-                ),
+                ),)
               );
             });
         }),
