@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "614301456619",
+    "project_id": "demodb-cdb27",
+    "storage_bucket": "demodb-cdb27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614301456619:android:a41a1116d69994780a06ae",
+        "android_client_info": {
+          "package_name": "com.exa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhutXiMp9cpgCVPfzpdKAgN9AnsRRN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614301456619:android:9dc0c10990f0a0050a06ae",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhutXiMp9cpgCVPfzpdKAgN9AnsRRN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614301456619:android:8a420f4bec564ba30a06ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhutXiMp9cpgCVPfzpdKAgN9AnsRRN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614301456619:android:ddfdffe5274d31500a06ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhutXiMp9cpgCVPfzpdKAgN9AnsRRN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614301456619:android:205b8b5e6698fcc80a06ae",
+        "android_client_info": {
+          "package_name": "com.example.image_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClhutXiMp9cpgCVPfzpdKAgN9AnsRRN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
